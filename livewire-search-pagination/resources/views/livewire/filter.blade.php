@@ -6,7 +6,7 @@
                 <table class="table table-bordered" style="margin: 10px 0 10px 0;">
                     <tr class="hoverRed">
                         <th>Nom</th>
-                        <th>Email</th>
+                        <th>Prénom</th>
                         <th>Rue</th>
                         <th>Ville</th>
                         <th>Code Postal</th>

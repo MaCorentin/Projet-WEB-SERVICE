@@ -1,0 +1,7 @@
+table.hoverRed tr:hover td {
+    background-color: #E02525;
+}
+
+hoverRed{
+    color: white;
+}
